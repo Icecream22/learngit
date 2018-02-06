@@ -1,2 +1,2 @@
-Git was a version control system.
-Git was free software.
+Github was a version control system.
+Github was free software.
